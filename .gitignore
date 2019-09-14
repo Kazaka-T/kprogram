@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+kprogram.Rcheck/
+kprogram*.tar.gz
+kprogram*.tgz
