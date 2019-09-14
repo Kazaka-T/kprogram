@@ -1,0 +1,6 @@
+^kprogram\.Rproj$
+^\.Rproj\.user$
+^kprogram\.Rcheck$
+^kprogram.*\.tar\.gz$
+^kprogram.*\.tgz$
+^LICENSE\.md$
